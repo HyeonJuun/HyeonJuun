@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonJuun&show_icons=true&theme=onedark)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnclf1005)](https://solved.ac/rnclf1005/)
-<img src="http://mazandi.herokuapp.com/api?handle={rnclf1005}&theme=warm"/>
+
